@@ -1,0 +1,23 @@
+.gadgetImg {
+    list-style-type: none;
+    background-color: #F5F5F7 ;
+
+
+
+
+}
+
+.gadgetImage {
+    width: 300px;
+    height: 350px;
+    padding-top: 20px;
+
+}
+
+.gadgetModelContainer {
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+
+}
